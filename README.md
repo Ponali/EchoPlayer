@@ -10,3 +10,7 @@ You can specify what to name the output file by adding `-o` or `--output` then a
 ## Examples
 There exists an "examples" folder full of sample javascript files to showcase what EchoPlayer can do:
 - `test.js`: Does not have a specific use case other than using every API function and testing 24-bit color.
+- `time.js`: Runs a digital clock with hours, minutes, seconds and milliseconds.
+- `tictactoe.js`: Runs tic tac toe. Use the arrow keys to move the cursor, and Enter / Space to set the current player cell. The current player is shown in the right side of the screen.
+
+If you are stuck running a program, or you want to exit, press Ctrl+C on the Node.JS console, and close the tab on modern browsers.
