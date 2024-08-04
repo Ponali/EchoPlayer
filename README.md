@@ -1,5 +1,10 @@
 # EchoPlayer
 EchoPlayer is a "quine game engine", a tool for generating code that outputs its own code, but at the same time, plays a game or anything else for you. When it generates a quine game, the generated code is not limited to a specified javascript runtime: it has support for both the Node.JS terminal and modern browsers.
+## Setting up
+Setting it up works like any Node.js repository, but if you are unsure:
+- Install Node.js if it isn't already
+- Clone the repository to your hard drive and seek to it
+- Run `npm install` on the repository folder and let npm do its thing.
 ## Parameters
 To run EchoPlayer, make sure Node.js is installed and run `node index.js [parameters]`
 
