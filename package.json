@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "open": "^10.1.0",
+    "uglify-js": "^3.19.1"
+  }
+}
