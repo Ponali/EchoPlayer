@@ -12,5 +12,6 @@ There exists an "examples" folder full of sample javascript files to showcase wh
 - `test.js`: Does not have a specific use case other than using every API function and testing 24-bit color.
 - `time.js`: Runs a digital clock with hours, minutes, seconds and milliseconds.
 - `tictactoe.js`: Runs tic tac toe. Use the arrow keys to move the cursor, and Enter / Space to set the current player cell. The current player is shown in the right side of the screen.
+- `clock.js`: Runs an analog clock with a hour hand, minute hand, and second hand.
 
 If you are stuck running a program, or you want to exit, press Ctrl+C on the Node.JS console, and close the tab on modern browsers.
